@@ -1,14 +1,10 @@
-## Transactions Tracker
+## CSS Grid template Areas
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Simple site layout example with usage of CSS grid template areas
 
 ## Project Specifications
 
-- Create UI for project
-- Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
-- Delete items from DOM
-- Persist to local storage
+- Create SCSS for project
+- Compile into CSS using Atom
 
-<h3><a href="https://starchitect-transactions-tracker.netlify.app/">Demo</a></h3>
+<h3><a href="https://starchitect-css-grid-template-areas.netlify.app//">Demo</a></h3>
